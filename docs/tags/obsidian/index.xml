@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on Main Brain</title>
+    <link>https://carlosgj94.github.io/MainBrainSite/tags/obsidian/</link>
+    <description>Recent content in Obsidian on Main Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carlosgj94.github.io/MainBrainSite/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Main Brain That Compounds</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/a-main-brain-that-compounds/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/a-main-brain-that-compounds/</guid>
+      <description>A personal knowledge system works better when it compiles knowledge into maintained notes instead of repeatedly searching raw material.</description>
+    </item>
+  </channel>
+</rss>

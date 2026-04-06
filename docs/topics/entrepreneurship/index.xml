@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrepreneurship on Main Brain</title>
+    <link>https://carlosgj94.github.io/MainBrainSite/topics/entrepreneurship/</link>
+    <description>Recent content in Entrepreneurship on Main Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carlosgj94.github.io/MainBrainSite/topics/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Can Historical Transitions Teach About AI?</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/what-can-historical-transitions-teach-about-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/what-can-historical-transitions-teach-about-ai/</guid>
+      <description>Historical analogies cannot predict AI exactly, but they can clarify where the real leverage tends to appear during major technological transitions.</description>
+    </item>
+  </channel>
+</rss>

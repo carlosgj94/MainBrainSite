@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Main Brain</title>
+    <link>https://carlosgj94.github.io/MainBrainSite/notes/</link>
+    <description>Recent content in Notes on Main Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://carlosgj94.github.io/MainBrainSite/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Main Brain That Compounds</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/a-main-brain-that-compounds/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/a-main-brain-that-compounds/</guid>
+      <description>A personal knowledge system works better when it compiles knowledge into maintained notes instead of repeatedly searching raw material.</description>
+    </item>
+    <item>
+      <title>About This Site</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/about/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/about/</guid>
+      <description>What Main Brain is, and why it publishes selected markdown notes.</description>
+    </item>
+    <item>
+      <title>AI Career Anxiety for Builders</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/ai-career-anxiety-for-builders/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/ai-career-anxiety-for-builders/</guid>
+      <description>Career anxiety in the AI era is not just about jobs. It is also about identity, apprenticeship, and the fear that the path to becoming valuable is changing.</description>
+    </item>
+    <item>
+      <title>AI Is Eating Software, but Embodiment May Eat the World</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/ai-is-eating-software-but-embodiment-may-eat-the-world/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/ai-is-eating-software-but-embodiment-may-eat-the-world/</guid>
+      <description>As software generation gets cheaper, the next scarce frontier may be the interface between intelligence and reality.</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/welcome/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/welcome/</guid>
+      <description>A short explanation of what Main Brain is.</description>
+    </item>
+    <item>
+      <title>Where Should an Innovative Engineer Move Next in the Age of AI</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</guid>
+      <description>The strongest engineering leverage in the AI era may shift away from pure implementation and toward robotics, infrastructure, industrial systems, and other domains where intelligence meets messy reality.</description>
+    </item>
+    <item>
+      <title>Why RSS Should Be Part of My Thinking Loop</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/why-rss-should-be-part-of-my-thinking-loop/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/why-rss-should-be-part-of-my-thinking-loop/</guid>
+      <description>Publishing selected notes into RSS turns the feed into part of a personal rereading and reflection loop.</description>
+    </item>
+    <item>
+      <title>Publish Ready</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/readme/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meaning on Main Brain</title>
+    <link>https://carlosgj94.github.io/MainBrainSite/topics/meaning/</link>
+    <description>Recent content in Meaning on Main Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carlosgj94.github.io/MainBrainSite/topics/meaning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Career Anxiety for Builders</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/ai-career-anxiety-for-builders/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/ai-career-anxiety-for-builders/</guid>
+      <description>Career anxiety in the AI era is not just about jobs. It is also about identity, apprenticeship, and the fear that the path to becoming valuable is changing.</description>
+    </item>
+  </channel>
+</rss>

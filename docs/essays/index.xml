@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essays on Main Brain</title>
+    <link>https://carlosgj94.github.io/MainBrainSite/essays/</link>
+    <description>Recent content in Essays on Main Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://carlosgj94.github.io/MainBrainSite/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Is Eating Software, but Embodiment May Eat the World</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/ai-is-eating-software-but-embodiment-may-eat-the-world/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/ai-is-eating-software-but-embodiment-may-eat-the-world/</guid>
+      <description>As software generation gets cheaper, one of the next major sources of scarcity may be the interface between intelligence and reality.</description>
+    </item>
+    <item>
+      <title>How Does a Smart Outsider Enter a Hard Domain?</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/how-does-a-smart-outsider-enter-a-hard-domain/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/how-does-a-smart-outsider-enter-a-hard-domain/</guid>
+      <description>Hard domains are rarely entered through instant legitimacy. More often, smart outsiders earn their way in through contact, judgment, and a narrow wedge of real usefulness.</description>
+    </item>
+    <item>
+      <title>Robotics Commercialization</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/robotics-commercialization/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/robotics-commercialization/</guid>
+      <description>In robotics, the hard part is rarely making the machine work once. It is making the system deployable, trustworthy, and economically useful at scale.</description>
+    </item>
+    <item>
+      <title>What Can Historical Transitions Teach About AI?</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/what-can-historical-transitions-teach-about-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/what-can-historical-transitions-teach-about-ai/</guid>
+      <description>Historical analogies cannot predict AI exactly, but they can clarify where the real leverage tends to appear during major technological transitions.</description>
+    </item>
+    <item>
+      <title>What Part of AI Career Anxiety Is Economic vs Existential?</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/what-part-of-ai-career-anxiety-is-economic-vs-existential/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/what-part-of-ai-career-anxiety-is-economic-vs-existential/</guid>
+      <description>AI career anxiety is partly about jobs, but more deeply about apprenticeship, identity, status, and whether the old path to becoming valuable still holds.</description>
+    </item>
+    <item>
+      <title>Where Should an Innovative Engineer Move Next in the Age of AI</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</guid>
+      <description>As software implementation gets cheaper, the strongest engineering leverage may move toward domains where intelligence must survive contact with reality.</description>
+    </item>
+  </channel>
+</rss>

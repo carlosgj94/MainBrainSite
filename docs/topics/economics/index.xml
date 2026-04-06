@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on Main Brain</title>
+    <link>https://carlosgj94.github.io/MainBrainSite/topics/economics/</link>
+    <description>Recent content in Economics on Main Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carlosgj94.github.io/MainBrainSite/topics/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where Should an Innovative Engineer Move Next in the Age of AI</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</guid>
+      <description>The strongest engineering leverage in the AI era may shift away from pure implementation and toward robotics, infrastructure, industrial systems, and other domains where intelligence meets messy reality.</description>
+    </item>
+  </channel>
+</rss>

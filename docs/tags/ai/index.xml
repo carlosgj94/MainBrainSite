@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on Main Brain</title>
+    <link>https://carlosgj94.github.io/MainBrainSite/tags/ai/</link>
+    <description>Recent content in Ai on Main Brain</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carlosgj94.github.io/MainBrainSite/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Career Anxiety for Builders</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/ai-career-anxiety-for-builders/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/ai-career-anxiety-for-builders/</guid>
+      <description>Career anxiety in the AI era is not just about jobs. It is also about identity, apprenticeship, and the fear that the path to becoming valuable is changing.</description>
+    </item>
+    <item>
+      <title>AI Is Eating Software, but Embodiment May Eat the World</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/ai-is-eating-software-but-embodiment-may-eat-the-world/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/ai-is-eating-software-but-embodiment-may-eat-the-world/</guid>
+      <description>As software generation gets cheaper, one of the next major sources of scarcity may be the interface between intelligence and reality.</description>
+    </item>
+    <item>
+      <title>AI Is Eating Software, but Embodiment May Eat the World</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/ai-is-eating-software-but-embodiment-may-eat-the-world/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/ai-is-eating-software-but-embodiment-may-eat-the-world/</guid>
+      <description>As software generation gets cheaper, the next scarce frontier may be the interface between intelligence and reality.</description>
+    </item>
+    <item>
+      <title>What Can Historical Transitions Teach About AI?</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/what-can-historical-transitions-teach-about-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/what-can-historical-transitions-teach-about-ai/</guid>
+      <description>Historical analogies cannot predict AI exactly, but they can clarify where the real leverage tends to appear during major technological transitions.</description>
+    </item>
+    <item>
+      <title>What Part of AI Career Anxiety Is Economic vs Existential?</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/what-part-of-ai-career-anxiety-is-economic-vs-existential/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/what-part-of-ai-career-anxiety-is-economic-vs-existential/</guid>
+      <description>AI career anxiety is partly about jobs, but more deeply about apprenticeship, identity, status, and whether the old path to becoming valuable still holds.</description>
+    </item>
+    <item>
+      <title>Where Should an Innovative Engineer Move Next in the Age of AI</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/essays/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/essays/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</guid>
+      <description>As software implementation gets cheaper, the strongest engineering leverage may move toward domains where intelligence must survive contact with reality.</description>
+    </item>
+    <item>
+      <title>Where Should an Innovative Engineer Move Next in the Age of AI</title>
+      <link>https://carlosgj94.github.io/MainBrainSite/notes/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://carlosgj94.github.io/MainBrainSite/notes/where-should-an-innovative-engineer-move-next-in-the-age-of-ai/</guid>
+      <description>The strongest engineering leverage in the AI era may shift away from pure implementation and toward robotics, infrastructure, industrial systems, and other domains where intelligence meets messy reality.</description>
+    </item>
+  </channel>
+</rss>
