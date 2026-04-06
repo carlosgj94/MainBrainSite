@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h2>{{ .Title }}</h2>
+  {{ with .Content }}{{ . }}{{ end }}
+  <ul>
+    {{ range .Pages.ByDate.Reverse }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Params.summary }}<br><span class="meta">{{ . }}</span>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

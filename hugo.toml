@@ -1,0 +1,29 @@
+baseURL = "https://carlosgj94.github.io/MainBrainSite/"
+languageCode = "en-us"
+title = "Main Brain"
+enableRobotsTXT = true
+
+[params]
+  description = "Selected notes from a personal markdown main brain."
+  author = "Carlos"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+
+[permalinks]
+  notes = "/notes/:slugorcontentbasename/"
+  essays = "/essays/:slugorcontentbasename/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+
+[frontmatter]
+  date = ["date", "published_at", "created"]
+  lastmod = ["updated", ":fileModTime"]

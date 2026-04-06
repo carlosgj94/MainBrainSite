@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <article>
+    <h2>{{ .Title }}</h2>
+    <p class="meta">
+      {{ with .Date }}Published {{ .Format "2006-01-02" }}{{ end }}
+      {{ with .Params.updated }} · Updated {{ . }}{{ end }}
+    </p>
+    {{ with .Params.summary }}<p><strong>{{ . }}</strong></p>{{ end }}
+    {{ .Content }}
+    {{ with .Params.tags }}
+      <p class="meta">Tags:
+      {{ range $index, $tag := . }}{{ if $index }}, {{ end }}{{ $tag }}{{ end }}
+      </p>
+    {{ end }}
+  </article>
+{{ end }}
