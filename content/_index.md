@@ -13,3 +13,5 @@ The goal is simple: turn durable notes into clean posts and RSS items that are w
 - [Notes](/notes/)
 - [Essays](/essays/)
 - [RSS Feed](/index.xml)
+- [Notes RSS](/notes/index.xml)
+- [Essays RSS](/essays/index.xml)
