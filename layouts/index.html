@@ -7,17 +7,17 @@
   <section>
     <h2>Explore the site</h2>
     <ul>
-      <li><a href="{{ "/notes/" | relURL }}">Browse notes</a> for shorter, feed-friendly pieces.</li>
-      <li><a href="{{ "/essays/" | relURL }}">Browse essays</a> for longer, more developed writing.</li>
-      <li><a href="{{ "/index.xml" | relURL }}">Subscribe to the main RSS feed</a>.</li>
-      <li><a href="{{ "/notes/index.xml" | relURL }}">Notes RSS</a> and <a href="{{ "/essays/index.xml" | relURL }}">Essays RSS</a>.</li>
+      <li><a href="{{ (site.GetPage "/notes").RelPermalink }}">Browse notes</a> for shorter, feed-friendly pieces.</li>
+      <li><a href="{{ (site.GetPage "/essays").RelPermalink }}">Browse essays</a> for longer, more developed writing.</li>
+      <li><a href="{{ "index.xml" | relURL }}">Subscribe to the main RSS feed</a>.</li>
+      <li><a href="{{ "notes/index.xml" | relURL }}">Notes RSS</a> and <a href="{{ "essays/index.xml" | relURL }}">Essays RSS</a>.</li>
     </ul>
   </section>
 
   <section>
     <h2>Recent essays</h2>
     <ul>
-      {{ range first 6 (where .Site.RegularPages "Section" "essays") }}
+      {{ range first 6 ((where .Site.RegularPages "Section" "essays").ByDate.Reverse) }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ with .Params.summary }}<br><span class="meta">{{ . }}</span>{{ end }}
@@ -29,7 +29,7 @@
   <section>
     <h2>Recent notes</h2>
     <ul>
-      {{ range first 6 (where .Site.RegularPages "Section" "notes") }}
+      {{ range first 6 ((where .Site.RegularPages "Section" "notes").ByDate.Reverse) }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ with .Params.summary }}<br><span class="meta">{{ . }}</span>{{ end }}

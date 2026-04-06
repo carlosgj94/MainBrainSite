@@ -1,4 +1,6 @@
 baseURL = "https://carlosgj94.github.io/MainBrainSite/"
+canonifyURLs = false
+relativeURLs = false
 languageCode = "en-us"
 title = "Main Brain"
 enableRobotsTXT = true
