@@ -2,9 +2,14 @@
 title: Home
 ---
 
-Selected notes from a personal markdown second brain.
+Main Brain is a small publishing layer for selected notes from a private markdown knowledge system.
 
-## Sections
+The goal is simple: turn durable notes into clean posts and RSS items that are worth rereading later.
 
+## Start here
+
+- [About](/notes/about/)
+- [Welcome](/notes/welcome/)
 - [Notes](/notes/)
 - [Essays](/essays/)
+- [RSS Feed](/index.xml)
